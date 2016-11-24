@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SpringMvc">
+    <CLASSES>
+      <root url="file:///opt/apache-tomcat-8.0.36/lib/SpringMvc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file:///opt/apache-tomcat-8.0.36/lib/SpringMvc" recursive="false" />
+  </library>
+</component>
