@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.json">
+    <CLASSES>
+      <root url="jar:///opt/apache-tomcat-8.0.36/lib/org.json.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///opt/apache-tomcat-8.0.36/lib/org.json.jar!/" />
+    </SOURCES>
+  </library>
+</component>

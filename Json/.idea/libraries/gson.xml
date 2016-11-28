@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="gson">
+    <CLASSES>
+      <root url="file:///opt/apache-tomcat-8.0.36/lib/JSON/gson" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///opt/apache-tomcat-8.0.36/lib/JSON/gson" />
+    </SOURCES>
+    <jarDirectory url="file:///opt/apache-tomcat-8.0.36/lib/JSON/gson" recursive="false" />
+    <jarDirectory url="file:///opt/apache-tomcat-8.0.36/lib/JSON/gson" recursive="false" type="SOURCES" />
+  </library>
+</component>
